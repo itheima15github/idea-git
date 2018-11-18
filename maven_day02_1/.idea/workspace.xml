@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e41d0c0-f414-4308-9013-53099e45e175" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-392769142">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="1" />
+          <entry key="java" value="9" />
+          <entry key="jsp" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="9" />
+          <entry key="JSP" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="451" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="707" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="451" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="707" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4142">
+              <caret line="218" column="10" selection-start-line="218" selection-start-column="10" selection-end-line="218" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="56" column="10" selection-start-line="4" selection-end-line="56" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="45" column="68" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="C:/Git_repositorys/repo" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/domain/Items.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/dao/ItemsDao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/itheima/dao/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/service/ItemsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/service/impl/ItemsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/itheima/Testt.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/controller/ItemsController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\maven_repository" />
+        <option name="mavenHome" value="C:/develop/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\develop\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="maven_day02_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven_day02_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven_day02_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven_day02_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven_day02_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven_day02_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven_day02_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven_day02_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven_day02_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven_day02_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven_day02_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven_day02_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven_day02_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven_day02_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven_day02_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven_day02_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven_day02_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven_day02_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven_day02_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven_day02_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven_day02_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven_day02_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542371125108" />
+    <property name="last_opened_file_path" value="C:/Git_repositorys" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\maven_day02_1\src\main\webapp\WEB-INF\pages" />
+      <recent name="C:\IdeaProjects\maven_day02_1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Testt.test2">
+    <configuration name="Testt.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven_day02_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Testt" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testt.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven_day02_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Testt" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Testt.test1" />
+      <item itemvalue="JUnit.Testt.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Testt.test2" />
+        <item itemvalue="JUnit.Testt.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e41d0c0-f414-4308-9013-53099e45e175" name="Default Changelist" comment="" />
+      <created>1542271181290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542271181290</updated>
+      <workItem from="1542271184337" duration="4558000" />
+      <workItem from="1542286748720" duration="2149000" />
+      <workItem from="1542359612734" duration="3405000" />
+      <workItem from="1542424774559" duration="21000" />
+      <workItem from="1542440541212" duration="599000" />
+      <workItem from="1542450378002" duration="623000" />
+      <workItem from="1542530276364" duration="565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Testt_test1 - 2018.11.15 at 20h 35m 52s.xml">
+      <configuration name="Testt.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testt_test1 - 2018.11.15 at 20h 40m 52s.xml">
+      <configuration name="Testt.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testt_test1 - 2018.11.15 at 20h 43m 37s.xml">
+      <configuration name="Testt.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testt_test1 - 2018.11.15 at 20h 50m 52s.xml">
+      <configuration name="Testt.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testt_test1 - 2018.11.15 at 20h 59m 58s.xml">
+      <configuration name="Testt.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testt_test2 - 2018.11.15 at 21h 12m 36s.xml">
+      <configuration name="Testt.test2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11920000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.32753405" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="2" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32935154" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.87030715" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.295764" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="C:/Git_repositorys" />
+      <path value="C:/Git_repositorys/repo" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://MAVEN/com.itheima:maven_day02_1:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.itheima:maven_day02_1:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="435.0208333333333" y="240.0">com.itheima:maven_day02_1:1.0-SNAPSHOT</node>
+            <node x="632.0" y="160.0">org.springframework:spring-beans:jar:4.2.8.RELEASE</node>
+            <node x="636.5" y="80.0">org.springframework:spring-beans:jar:4.2.8.RELEASE/org.springframework:spring-core:jar:4.2.8.RELEASE</node>
+            <node x="617.0" y="0.0">org.springframework:spring-beans:jar:4.2.8.RELEASE/org.springframework:spring-core:jar:4.2.8.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="312.5" y="160.0">org.springframework:spring-context:jar:5.0.2.RELEASE</node>
+            <node x="80.20833333333331" y="80.0">org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-aop:jar:5.0.2.RELEASE</node>
+            <node x="0.0" y="0.0">org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-aop:jar:5.0.2.RELEASE/org.springframework:spring-beans:jar:5.0.2.RELEASE</node>
+            <node x="129.0" y="0.0">org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-aop:jar:5.0.2.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE</node>
+            <node x="387.5" y="80.0">org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-beans:jar:4.2.8.RELEASE</node>
+            <node x="516.5" y="80.0">org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-core:jar:4.2.8.RELEASE</node>
+            <node x="230.49999999999997" y="80.0">org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-expression:jar:5.0.2.RELEASE</node>
+            <node x="248.99999999999997" y="0.0">org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-expression:jar:5.0.2.RELEASE/org.springframework:spring-core:jar:4.2.8.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework:spring-context:jar:5.0.2.RELEASE" target="org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-expression:jar:5.0.2.RELEASE">
+              <point x="-14.5" y="-15.0" />
+              <point x="356.0" y="130.0" />
+              <point x="299.0" y="130.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-beans:jar:4.2.8.RELEASE/org.springframework:spring-core:jar:4.2.8.RELEASE" target="org.springframework:spring-beans:jar:4.2.8.RELEASE/org.springframework:spring-core:jar:4.2.8.RELEASE/commons-logging:commons-logging:jar:1.2">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.2.RELEASE" target="org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-aop:jar:5.0.2.RELEASE">
+              <point x="-43.5" y="-15.0" />
+              <point x="327.0" y="140.0" />
+              <point x="128.70833333333331" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-expression:jar:5.0.2.RELEASE" target="org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-expression:jar:5.0.2.RELEASE/org.springframework:spring-core:jar:4.2.8.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.itheima:maven_day02_1:1.0-SNAPSHOT" target="org.springframework:spring-beans:jar:4.2.8.RELEASE">
+              <point x="30.5" y="-15.0" />
+              <point x="526.5208333333333" y="215.0" />
+              <point x="686.5" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.itheima:maven_day02_1:1.0-SNAPSHOT" target="org.springframework:spring-context:jar:5.0.2.RELEASE">
+              <point x="-30.5" y="-15.0" />
+              <point x="465.5208333333333" y="215.0" />
+              <point x="370.5" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-beans:jar:4.2.8.RELEASE" target="org.springframework:spring-beans:jar:4.2.8.RELEASE/org.springframework:spring-core:jar:4.2.8.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-aop:jar:5.0.2.RELEASE" target="org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-aop:jar:5.0.2.RELEASE/org.springframework:spring-core:jar:5.0.2.RELEASE">
+              <point x="24.25" y="-15.0" />
+              <point x="152.95833333333331" y="55.0" />
+              <point x="179.0" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-aop:jar:5.0.2.RELEASE" target="org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-aop:jar:5.0.2.RELEASE/org.springframework:spring-beans:jar:5.0.2.RELEASE">
+              <point x="-24.25" y="-15.0" />
+              <point x="104.45833333333331" y="55.0" />
+              <point x="54.5" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.2.RELEASE" target="org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-core:jar:4.2.8.RELEASE">
+              <point x="43.5" y="-15.0" />
+              <point x="414.0" y="140.0" />
+              <point x="566.5" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.2.RELEASE" target="org.springframework:spring-context:jar:5.0.2.RELEASE/org.springframework:spring-beans:jar:4.2.8.RELEASE">
+              <point x="14.5" y="-15.0" />
+              <point x="385.0" y="130.0" />
+              <point x="442.0" y="130.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="226.0" y="188.0" />
+          <SelectedNodes>
+            <node>com.itheima:maven_day02_1:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/domain/Items.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/dao/ItemsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/service/ItemsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itheima/Testt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.2.RELEASE/spring-web-5.0.2.RELEASE-sources.jar!/org/springframework/web/context/ContextLoaderListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.2.RELEASE/spring-web-5.0.2.RELEASE-sources.jar!/org/springframework/web/filter/CharacterEncodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/service/impl/ItemsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/controller/ItemsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/itemDetail.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/itheima/dao/ItemsDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4142">
+          <caret line="218" column="10" selection-start-line="218" selection-start-column="10" selection-end-line="218" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="56" column="10" selection-start-line="4" selection-end-line="56" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="45" column="68" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="tomcat7:run" />
+  </component>
+</project>
